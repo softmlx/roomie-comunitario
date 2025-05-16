@@ -39,3 +39,5 @@ Nos reservamos el derecho de modificar esta política. Te notificaremos mediante
 ## 7. Contacto
 
 Si tienes preguntas, contáctanos a: [assistant@softmlx.com]
+
+**@SoftMLX**
