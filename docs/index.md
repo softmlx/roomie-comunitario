@@ -1,3 +1,3 @@
 # Proyectos
 
-- Roomie Comunitario ([Aviso de privacidad](privacidad.md))
+- Roomie Comunitario ([Aviso de privacidad](privacidad))
