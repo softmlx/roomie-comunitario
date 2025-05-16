@@ -30,7 +30,13 @@ Tus datos se almacenan de forma segura y no se venden ni se usan con fines comer
 
 ## 5. Derechos del usuario
 
-Puedes solicitar la eliminación o corrección de tus datos escribiendo a: [assistant@softmlx.com].
+Puedes solicitar la eliminación o corrección de tus datos escribiendo a: [assistant@softmlx.com]. Para ello es necesario que nos proporciones el usuario de la cuenta creada. La información eliminada será:
+
+- La cuenta de acceso
+
+- La información personal del usuario
+
+**Nota**: La información será resguardada por 6 meses por cuestiones de procesos internos del Albergue
 
 ## 6. Cambios a esta política
 
